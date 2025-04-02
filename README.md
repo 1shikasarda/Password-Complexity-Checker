@@ -20,7 +20,7 @@ The checker evaluates these aspects (all equally weighted):
 - Numbers: At least 1, 2+ numbers 🔢
 - Special characters: At least 1, 2+ special chars 🔤
 
-## *Scoring System:
+## *Scoring System*
 The password receives a score from 0-4 based on meeting these criteria:
 - 4/4: "Strong password! Keep it safe." 🎉
 - 3/4: "Good password but could be stronger." 👍
